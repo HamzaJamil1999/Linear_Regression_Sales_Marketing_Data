@@ -1,7 +1,7 @@
 # Simple Linear Regression Analysis: Marketing and Sales Data
 
 ## Project Overview
-This project uses a simple linear regression model to analyze the relationship between marketing budgets (with a focus on radio promotion) and sales revenue. As part of an analytics team, the goal is to provide insights into how marketing budgets, particularly for radio promotions, correlate with sales outcomes. This information can guide the company's resource allocation in future marketing campaigns.
+This project uses a simple linear regression model to analyze the relationship between marketing budgets (with a focus on radio promotion) and sales revenue. The goal is to provide insights into how marketing budgets, particularly for radio promotions, correlate with sales outcomes. This information can guide the company's resource allocation in future marketing campaigns.
 
 The dataset provided includes marketing campaign data across TV, radio, and social media channels, alongside the corresponding revenue generated. The insights derived will help stakeholders make more data-informed decisions on where to focus marketing resources.
 
